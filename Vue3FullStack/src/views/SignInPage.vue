@@ -40,6 +40,6 @@ const onSubmit = async() => {
             <label for="password">Mot de passe :</label>
             <input type="password" name="password" id="password" v-model="password">
         </div>
-        <button class="delete" type="submit">Valider !</button>
+        <button class="delete" type="submit">Validé</button>
     </form>
 </template> 
